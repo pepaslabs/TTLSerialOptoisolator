@@ -2,6 +2,26 @@
 
 A board which provides isolation for a TTL serial TX / RX pair.
 
+## License
+
+This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas.
+
+# Board design v1
+
+Initial board design.
+
+![](releases/v1/top.png)
+
+![](releases/v1/bottom.png)
+
+## Gerbers
+
+[gerbers.zip](releases/v1/gerbers.zip)
+
+## Schematic
+
+[PDF](releases/v1/TTLSerialOptoisolator%20schematic.pdf).
+
 ## LED series resistor calculation
 
 Can we find an LED resistor value which works for both 3.3V and 5V TTL levels?
