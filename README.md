@@ -18,3 +18,4 @@ Voltage|100Ω|150Ω|220Ω|330Ω|470Ω|680Ω|1kΩ
 5V|38mA|25mA|17mA|12mA|8mA|6mA|4mA
 3.3V|21mA|14mA|10mA|6mA|4mA|3mA|2mA
 
+So 330Ω would be a reasonable choice.
