@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:/Documents and Settings/IEUser/My Documents/Dropbox/git/pepaslabs/TTLSerialOptoisolator/kicad/TTLSerialOptoisolator.sch")
-    (date "4/11/2015 11:27:23 AM")
+    (date "4/11/2015 2:08:50 PM")
     (tool "eeschema (2013-07-07 BZR 4022)-stable"))
   (components
     (comp (ref U2)
@@ -22,7 +22,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 552956C5))
     (comp (ref R1)
-      (value 470)
+      (value 330)
       (libsource (lib PL_resistors) (part R_0W25))
       (sheetpath (names /) (tstamps /))
       (tstamp 5529585F))
@@ -32,7 +32,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 552958B7))
     (comp (ref R4)
-      (value 470)
+      (value 330)
       (libsource (lib PL_resistors) (part R_0W25))
       (sheetpath (names /) (tstamps /))
       (tstamp 552958D6))
