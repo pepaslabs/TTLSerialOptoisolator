@@ -22,6 +22,8 @@ Initial board design.
 
 [PDF](releases/v1/TTLSerialOptoisolator%20schematic.pdf).
 
+# Design notes
+
 ## LED series resistor calculation
 
 Can we find an LED resistor value which works for both 3.3V and 5V TTL levels?
